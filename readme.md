@@ -22,10 +22,7 @@ Permite convertir valores entre:
 4. Hacé clic en **Convertir**.
 5. El resultado aparecerá a la derecha.
 
-## 📸 Captura de pantalla
-(¡Acá podés subir una imagen después!)
-
-## 👩‍💻 Autora
+## 👩‍💻 Alumna
 
 **Erica Almirón**  
 curso python inicial "TECNO 3F"
